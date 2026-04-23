@@ -1,3 +1,13 @@
 # nutri+
 
-Felipe
+
+## Equipe
+
+### Vitor
+### Gabriel
+### Osmar
+### Felipe
+
+## Orientador da Equipe
+
+### Eyder Rios
